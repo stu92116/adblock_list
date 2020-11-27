@@ -1,0 +1,87 @@
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > TABLE:nth-child(8) > TBODY > TR > TD:last-child
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > DIV:nth-child(6)
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > DIV:nth-child(7)
+vn-zoom.com###notices
+vn-zoom.com###announcements > LI.announcerow:first-child
+vn-zoom.com###announcements > LI.announcerow:nth-child(2)
+vn-zoom.com###announcements > LI.announcerow:last-child
+vn-zoom.com###forum_info_options
+vn-zoom.com###navtabs > LI:last-child > A.navtab > IMG.inlineimg
+vn-zoom.com###header
+vn-zoom.com###fb_loginbtn > IMG
+vn-zoom.com###newthreadlink_top
+vn-zoom.com###wgo
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > TABLE:nth-child(9) > TBODY > TR > TD:first-child > DIV.tcat.tcat2:nth-child(7) > DIV.tcatLeft
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > TABLE:nth-child(9) > TBODY > TR > TD:first-child > DIV.tcat.tcat2:nth-child(7)
+vn-zoom.com###footerMain
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > TABLE:nth-child(9) > TBODY > TR > TD:first-child > DIV.navlinks:nth-child(6)
+vn-zoom.com###topBar > DIV.pageWrap > DIV.socialBox:first-child > A:nth-child(2) > IMG
+vn-zoom.com###topBar > DIV.pageWrap > DIV.socialBox:first-child > A:nth-child(3) > IMG
+vn-zoom.com###topBar > DIV.pageWrap > DIV.socialBox:first-child > A:last-child > IMG
+vn-zoom.com###topBar > DIV.pageWrap > DIV.socialBox:first-child > DIV.socialBoxText:first-child
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > TABLE:nth-child(9) > TBODY > TR > TD:last-child
+vn-zoom.com###adtimaIFrameWrapper_2757759746344181104
+vn-zoom.com###adtimaIFrameWrapper_1128967483227069789
+vn-zoom.com###adtima-logo-2757759746344181104 > A > DIV.adtimalogo
+vn-zoom.com###contentMain > DIV.bodyWrapper > DIV.body_wrapper:nth-child(2) > CENTER:nth-child(10) > A:last-child > IMG
+@@||academy.digitalent.org.tw^$important,document,~extension
+@@||avgle.com^$important,document,~extension
+@@||find.ruten.com.tw^$important,document,~extension
+@@||www.likesgroup.com^$important,document,~extension
+@@||simpleliker.net^$important,document,~extension
+@@||www.52av.tv^$important,document,~extension
+@@||www.52tv52.xyz^$important,document,~extension
+@@||www.manyak.info^$important,document,~extension
+popjav.tv###preroll > div.pop-wrap > div.pop-main
+popjav.tv##div.wrap.cf:nth-child(3) > div.wrap.list:nth-child(5) > div.mainw > div.main.l200.r300:first-child > div:first-child > div.poplayer:first-child
+@@||lms.nchu.edu.tw^$important,document,~extension
+@@||biorola.me.ntu.edu.tw^$important,document,~extension
+@@||appear.in^$important,document,~extension
+@@||ck101.com^$important,document,~extension
+@@||moviesunus01.com^$important,document,~extension
+@@||my.taishinbank.com.tw^$important,document,~extension
+@@||www.vscinemas.com.tw^$important,document,~extension
+@@||booking.vietjetair.com^$important,document,~extension
+@@||www.cathaypacific.com^$important,document,~extension
+popjav.tv###preroll > div.pop-wrap
+popjav.tv##div.wrap.cf:nth-child(3) > div.wrap.list:nth-child(4) > div.mainw > div.main.l200.r300:first-child > div:first-child > div.poplayer:first-child
+@@||mega.nz^$important,document,~extension
+@@||www.vpnmentor.com^$important,document,~extension
+@@||ordertickets.ubus.com.tw^$important,document,~extension
+@@||userscloud.com^$important,document,~extension
+@@||online.carrefour.com.tw^$important,document,~extension
+@@||www.eg4earn.com^$important,document,~extension
+@@||www.programmiedovetrovarli.it^$important,document,~extension
+@@||www.logitech.com^$important,document,~extension
+@@||xproductkey.com^$important,document,~extension
+@@||www.file-up.org^$important,document,~extension
+@@||cn.pornhubpremium.com^$important,document,~extension
+@@||meet.jit.si^$important,document,~extension
+@@||www.instroliker.com^$important,document,~extension
+@@||www.allsmo.com^$important,document,~extension
+dcard.tw##div.__portal:last-child > div.sc-10mcz16-0.fMNFMJ:last-child
+dcard.tw##div.__portal:last-child > div.sc-10mcz16-0.fMNFMJ:first-child
+pinterest.com###__PWS_ROOT__ > div:first-child > div > div.zI7.iyn.Hsu > div:nth-child(4) > div > div:last-child > div
+pinterest.com###__PWS_ROOT__ > div:first-child > div > div.zI7.iyn.Hsu > div:nth-child(4)
+dcard.tw##div.__portal:nth-child(43) > div.sc-10mcz16-0.fMNFMJ
+zh-tw.hikingbook.net###fb-root > div.fb-customerchat.fb_invisible_flow.fb_iframe_widget:nth-child(2) > span > iframe
+@@||surfproxy4.appspot.com^$important,document,~extension
+@@||thefappening.wiki^$important,document,~extension
+dcard.tw##div.__portal:nth-child(42) > div.sc-10mcz16-0.fMNFMJ
+@@||www.91wii.com^$important,document,~extension
+@@||st23q.com^$important,document,~extension
+@@||tw.bid.yahoo.com^$important,document,~extension
+@@||www.mi.com^$important,document,~extension
+@@||www.17track.net^$important,document,~extension
+@@||5278.cc^$important,document,~extension
+@@||24h.pchome.com.tw^$important,document,~extension
+@@||youtube.com^$important,document,~extension
+@@||drive.google.com^$important,document,~extension
+shop.cosmed.com.tw##div.toast--content
+shop.cosmed.com.tw###root > div.container-component > div.layout-center:nth-child(2) > div.LayoutContainer-sc-1cii416.wPbzg > div.add-to-cart:nth-child(4) > div.toast:nth-child(2) > div.toast--backdrop.toast--fade-out:first-child
+dcard.tw##div.__portal:last-child > div.sc-1pe30hq-0.dzsqAO
+@@||savef-my.sharepoint.com^$important,document,~extension
+@@||shopee.tw^$important,document,~extension
+@@||www.facebook.com^$important,document,~extension
+@@||secure4.store.apple.com^$important,document,~extension
+@@||secure2.store.apple.com^$important,document,~extension
